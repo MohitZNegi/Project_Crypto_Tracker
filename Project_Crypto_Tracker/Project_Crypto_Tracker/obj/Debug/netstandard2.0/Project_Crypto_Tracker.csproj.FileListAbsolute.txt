@@ -1,0 +1,15 @@
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\bin\Debug\netstandard2.0\Project_Crypto_Tracker.deps.json
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\bin\Debug\netstandard2.0\Project_Crypto_Tracker.dll
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\bin\Debug\netstandard2.0\ref\Project_Crypto_Tracker.dll
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\bin\Debug\netstandard2.0\Project_Crypto_Tracker.pdb
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.csproj.AssemblyReference.cache
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.AssemblyInfoInputs.cache
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.AssemblyInfo.cs
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.csproj.CoreCompileInputs.cache
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.dll
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\ref\Project_Crypto_Tracker.dll
+D:\L6_SD\Project_Crypto_Tracker\Project_Crypto_Tracker\Project_Crypto_Tracker\obj\Debug\netstandard2.0\Project_Crypto_Tracker.pdb

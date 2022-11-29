@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_Crypto_Tracker.MainPage" BackgroundColor="#007399" Title="Crypto Tracker">
+
+    <StackLayout>
+        <StackLayout HeightRequest="5">
+        </StackLayout>
+        <!--Header-->
+        <Frame BackgroundColor="#00bfff" CornerRadius="5">
+            <Label TextColor="#0052cc" Text="My Crypto Tracker" FontSize="25" FontAttributes="Bold"></Label>
+        </Frame>
+        <!--Crypto List-->
+        <ListView x:Name="CoinListView" RowHeight="100" SeparatorColor="Red" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="0,0,0,0">
+
+                            <Image Source="{Binding Icon_Url}" HeightRequest="5000"   />
+                            <StackLayout Orientation="Vertical" Padding="0,0,0,0"
+                                         HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand">
+                                <Label Text="{Binding Name}" FontSize="Large" FontAttributes="Bold"
+                                       TextColor="#003380"/>
+                                <Label Text="{Binding Asset_Id}" FontSize="Medium"
+                                       FontAttributes="Italic" TextColor="#ff9900"/>
+                            </StackLayout>
+                            <Label Text="{Binding Price_USD, StringFormat='{}{0:c}'}" HorizontalOptions="End" 
+                                   VerticalOptions="CenterAndExpand" TextColor="#4d94ff" FontSize="17" FontAttributes="Italic"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <!-- Refresh Button-->
+        <Frame BackgroundColor="#007399">
+            <Button x:Name="Refresh_Button" Text="Refresh" 
+                    Clicked="Refresh_Button_Clicked" BackgroundColor="#00bfff"></Button>
+        </Frame>
+        
+    </StackLayout>
+</ContentPage>
